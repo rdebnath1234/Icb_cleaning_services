@@ -1,5 +1,5 @@
 
-# riya_s_application6
+# Cleaning Services Application
 ### Table of contents
 - [System requirements](#system-requirements)
 - [Figma design guidelines for better UI accuracy](#figma-design-guideline-for-better-accuracy)
